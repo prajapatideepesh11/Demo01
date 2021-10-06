@@ -1,8 +1,8 @@
 <?php
-$servername = "library.c2fiwz3rgd3y.us-west-2.rds.amazonaws.com";
-$username = "admin";
-$password = "12345678";
-$dbname = "library";
+$servername = "localhost";
+$username = "root";
+$password = "Qwer@1234";
+$dbname = "demo01";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
